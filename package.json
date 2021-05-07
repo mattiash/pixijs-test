@@ -1,0 +1,17 @@
+{
+  "name": "pixijs-test",
+  "version": "1.0.0",
+  "description": "https://opengameart.org/content/space-shooter-redux",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pixi.js": "^6.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.25.0"
+  }
+}
